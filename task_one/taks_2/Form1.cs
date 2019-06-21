@@ -53,7 +53,7 @@ namespace taks_2
         {
              // на случай, если пользователь угадаетс  первого раза, компьютер всегда начинает с 50
             int number = int.Parse(textBox1.Text) == ComputerNumber ?number = 50: int.Parse(textBox1.Text);
-            // методом деления определяем минимальное кол-во попыток с учётом, округления в большую сторону
+           
             int min = 0;
             int computerNumber = ComputerNumber;
             int last = 0;
