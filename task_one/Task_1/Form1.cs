@@ -14,7 +14,7 @@ namespace Task_1
     {
         public Form1()
         {
-            // Савенко Вадим 
+            // Савенко Вадим - первое задание, сделать игру
             InitializeComponent();
 
         }
